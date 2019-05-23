@@ -1,6 +1,6 @@
 ## Claim your Satellite 2019 Octocat Creation!
 
-Hi! I'm @vilmibm ! I volunteered giving out attendee's custom octocats most of GitHub Satellite 2019. I felt bad about how many were left at the end of the night, so I threw them onto a page to hopefully get them to their rightful home.
+Hi! I'm [@vilmibm](https://github.com/vilmibm)! I volunteered giving out attendee's custom octocats most of GitHub Satellite 2019. I felt bad about how many were left at the end of the night, so I threw them onto a page to hopefully get them to their rightful home.
 
 ## I see my octocat!
 
