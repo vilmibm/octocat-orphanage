@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Claim your Satellite 2019 Octocat Creation!
 
-You can use the [editor on GitHub](https://github.com/vilmibm/octocat-orphanage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi! I'm @vilmibm ! I volunteered giving out attendee's custom octocats most of GitHub Satellite 2019. I felt bad about how many were left at the end of the night, so I threw them onto a page to hopefully get them to their rightful home.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## I see my octocat!
 
-### Markdown
+If you've located your buddy, click on it to open up your mail client. Send me the **Confirmation Code** from the email you received when you created the octocat and be in the subject like this: **MyOctocat Printing Confirmation: #XXXXXX**. Once I've matched your code with the octocat, I'll reply and figure out how to get it to you :)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Octocats!
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vilmibm/octocat-orphanage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+(todo sorry)
