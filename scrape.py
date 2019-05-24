@@ -11,7 +11,7 @@ IMG_DIR = os.path.join(DIR, 'cats')
 TMPL = '''
 <p>
     <a href="mailto:vilmibm@pm.me?subject=Claiming an Octocat">
-      ![octocat](cats/{filename})
+      <img alt="octocat" src="cats/{filename}">
     </a>
 </p>
 '''
