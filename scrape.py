@@ -18,6 +18,9 @@ TMPL = '''
 
 with open(os.path.join(DIR, 'index.md'), 'w') as f:
     f.write(index_contents)
+    f.write('<div class="cats">')
 
     for img in os.listdir(IMG_DIR):
         f.write(TMPL.format(filename=img))
+
+    f.write('</div>')

@@ -1,3 +1,9 @@
+<style>
+div.cats p {
+  float: left;
+  margin: 1px;
+}
+</style>
 ## Claim your Satellite 2019 Octocat Creation!
 
 Hi! I'm [@vilmibm](https://github.com/vilmibm)! I volunteered giving out attendee's custom octocats most of GitHub Satellite 2019. I felt bad about how many were left at the end of the night, so I threw them onto a page to hopefully get them to their rightful home.
@@ -7,7 +13,7 @@ Hi! I'm [@vilmibm](https://github.com/vilmibm)! I volunteered giving out attende
 If you've located your buddy, click on it to open up your mail client. Send me the **Confirmation Code** from the email you received when you created the octocat and be in the subject like this: **MyOctocat Printing Confirmation: #XXXXXX**. Once I've matched your code with the octocat, I'll reply and figure out how to get it to you :)
 
 ## Octocats!
-
+<div class="cats">
 <p>
     <a href="mailto:vilmibm@pm.me?subject=Claiming an Octocat">
       <img alt="octocat" src="cats/MVIMG_20190524_001357.jpg">
@@ -607,3 +613,4 @@ If you've located your buddy, click on it to open up your mail client. Send me t
       <img alt="octocat" src="cats/MVIMG_20190524_000246.jpg">
     </a>
 </p>
+</div>
